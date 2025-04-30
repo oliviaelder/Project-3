@@ -1,11 +1,11 @@
 # Project 3: Case Management System
-Challenge: Design a case management system.
 
-Context: For the case management system, the goal was to provide a system where legal professionals could manage their cases, track relevant documents, and update case statuses. 
+Challenge: Modernize the Montana Judicial Branch’s outdated, paper-based court operations by leading the implementation of a digital case management system.
 
-Action: I created a project plan, broke the work into smaller tasks, and set deadlines. I also tracked progress and managed team members to ensure the project stayed on schedule.
+Context: The existing system made it difficult to track cases, access information quickly, and operate efficiently. A large-scale digital transformation was needed to streamline workflows and improve public service delivery across the judicial branch.
 
-Results: The main challenge was managing multiple tasks and ensuring that everything was completed on time. I used project management tools and regular check-ins to keep the project moving forward.
+Action: As the project manager, I led the initiative using a structured project management framework. I developed a detailed project plan, managed timelines and budgets, coordinated with stakeholders, and identified and mitigated risks. I ensured clear communication among technical teams, court staff, and leadership while aligning the system’s development with organizational goals.
 
-Reflection: This project helped me improve my project management skills, particularly in organizing tasks, managing timelines, and working with a team to meet goals.
+Results: The digital system replaced manual processes with a centralized platform, improving case tracking, enhancing data accessibility, and increasing operational efficiency. The project was delivered on time and within budget, supporting long-term improvements in accountability and service quality.
 
+Reflection: This project deepened my experience in project management and highlighted the value of planning, coordination, and stakeholder engagement when driving organizational change. It showed how thoughtful leadership can help deliver sustainable solutions that support public-sector modernization.
